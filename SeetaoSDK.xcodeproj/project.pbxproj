@@ -15,6 +15,31 @@
 		1DAA74BC1C84491500485DB8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74BA1C84491500485DB8 /* LaunchScreen.storyboard */; };
 		1DAA74C71C84491500485DB8 /* SeetaoSDKTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DAA74C61C84491500485DB8 /* SeetaoSDKTests.m */; };
 		1DAA74D21C84491500485DB8 /* SeetaoSDKUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DAA74D11C84491500485DB8 /* SeetaoSDKUITests.m */; };
+		1DAA75001C84492600485DB8 /* libseetaoSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DAA74E11C84492600485DB8 /* libseetaoSDK.a */; };
+		1DAA75011C84492600485DB8 /* SeetaoBackIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74E31C84492600485DB8 /* SeetaoBackIcon@2x.png */; };
+		1DAA75021C84492600485DB8 /* SeetaoBackIcon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74E41C84492600485DB8 /* SeetaoBackIcon@3x.png */; };
+		1DAA75031C84492600485DB8 /* SeetaoHistoryImage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74E51C84492600485DB8 /* SeetaoHistoryImage@2x.png */; };
+		1DAA75041C84492600485DB8 /* SeetaoInteractIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74E61C84492600485DB8 /* SeetaoInteractIcon@2x.png */; };
+		1DAA75051C84492600485DB8 /* SeetaoInteractIconDot@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74E71C84492600485DB8 /* SeetaoInteractIconDot@2x.png */; };
+		1DAA75061C84492600485DB8 /* SeetaoInteractOffIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74E81C84492600485DB8 /* SeetaoInteractOffIcon@2x.png */; };
+		1DAA75071C84492600485DB8 /* SeetaoInteractOfflineTip.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74E91C84492600485DB8 /* SeetaoInteractOfflineTip.gif */; };
+		1DAA75081C84492600485DB8 /* SeetaoInteractOnIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74EA1C84492600485DB8 /* SeetaoInteractOnIcon@2x.png */; };
+		1DAA75091C84492600485DB8 /* SeetaoMoreIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74EB1C84492600485DB8 /* SeetaoMoreIcon@2x.png */; };
+		1DAA750A1C84492600485DB8 /* SeetaoNetErrorIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74EC1C84492600485DB8 /* SeetaoNetErrorIcon@2x.png */; };
+		1DAA750B1C84492600485DB8 /* SeetaoNetErrorIcon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74ED1C84492600485DB8 /* SeetaoNetErrorIcon@3x.png */; };
+		1DAA750C1C84492600485DB8 /* SeetaoRefreshIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74EE1C84492600485DB8 /* SeetaoRefreshIcon@2x.png */; };
+		1DAA750D1C84492600485DB8 /* SeetaoRefreshIcon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74EF1C84492600485DB8 /* SeetaoRefreshIcon@3x.png */; };
+		1DAA750E1C84492600485DB8 /* SeetaoShakeBg@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74F01C84492600485DB8 /* SeetaoShakeBg@2x.jpg */; };
+		1DAA750F1C84492600485DB8 /* SeetaoShakeImage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74F11C84492600485DB8 /* SeetaoShakeImage@2x.png */; };
+		1DAA75101C84492600485DB8 /* SeetaoShakeImageBg.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74F21C84492600485DB8 /* SeetaoShakeImageBg.png */; };
+		1DAA75111C84492600485DB8 /* SeetaoShakeThemeCustomVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74F31C84492600485DB8 /* SeetaoShakeThemeCustomVC.xib */; };
+		1DAA75121C84492600485DB8 /* SeetaoShakeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74F41C84492600485DB8 /* SeetaoShakeViewController.xib */; };
+		1DAA75131C84492600485DB8 /* SeetaoShareIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74F51C84492600485DB8 /* SeetaoShareIcon@2x.png */; };
+		1DAA75141C84492600485DB8 /* SeetaoShareIcon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74F61C84492600485DB8 /* SeetaoShareIcon@3x.png */; };
+		1DAA75151C84492600485DB8 /* SeetaoTipCloseIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74F71C84492600485DB8 /* SeetaoTipCloseIcon@2x.png */; };
+		1DAA75161C84492600485DB8 /* SeetaoWebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74F81C84492600485DB8 /* SeetaoWebViewController.xib */; };
+		1DAA75171C84492600485DB8 /* SeetaoWebViewJavascriptBridge.js.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74F91C84492600485DB8 /* SeetaoWebViewJavascriptBridge.js.txt */; };
+		1DAA75181C84492600485DB8 /* shake.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1DAA74FA1C84492600485DB8 /* shake.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +76,36 @@
 		1DAA74CD1C84491500485DB8 /* SeetaoSDKUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SeetaoSDKUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DAA74D11C84491500485DB8 /* SeetaoSDKUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SeetaoSDKUITests.m; sourceTree = "<group>"; };
 		1DAA74D31C84491500485DB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DAA74E11C84492600485DB8 /* libseetaoSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libseetaoSDK.a; sourceTree = "<group>"; };
+		1DAA74E31C84492600485DB8 /* SeetaoBackIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoBackIcon@2x.png"; sourceTree = "<group>"; };
+		1DAA74E41C84492600485DB8 /* SeetaoBackIcon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoBackIcon@3x.png"; sourceTree = "<group>"; };
+		1DAA74E51C84492600485DB8 /* SeetaoHistoryImage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoHistoryImage@2x.png"; sourceTree = "<group>"; };
+		1DAA74E61C84492600485DB8 /* SeetaoInteractIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoInteractIcon@2x.png"; sourceTree = "<group>"; };
+		1DAA74E71C84492600485DB8 /* SeetaoInteractIconDot@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoInteractIconDot@2x.png"; sourceTree = "<group>"; };
+		1DAA74E81C84492600485DB8 /* SeetaoInteractOffIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoInteractOffIcon@2x.png"; sourceTree = "<group>"; };
+		1DAA74E91C84492600485DB8 /* SeetaoInteractOfflineTip.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SeetaoInteractOfflineTip.gif; sourceTree = "<group>"; };
+		1DAA74EA1C84492600485DB8 /* SeetaoInteractOnIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoInteractOnIcon@2x.png"; sourceTree = "<group>"; };
+		1DAA74EB1C84492600485DB8 /* SeetaoMoreIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoMoreIcon@2x.png"; sourceTree = "<group>"; };
+		1DAA74EC1C84492600485DB8 /* SeetaoNetErrorIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoNetErrorIcon@2x.png"; sourceTree = "<group>"; };
+		1DAA74ED1C84492600485DB8 /* SeetaoNetErrorIcon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoNetErrorIcon@3x.png"; sourceTree = "<group>"; };
+		1DAA74EE1C84492600485DB8 /* SeetaoRefreshIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoRefreshIcon@2x.png"; sourceTree = "<group>"; };
+		1DAA74EF1C84492600485DB8 /* SeetaoRefreshIcon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoRefreshIcon@3x.png"; sourceTree = "<group>"; };
+		1DAA74F01C84492600485DB8 /* SeetaoShakeBg@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "SeetaoShakeBg@2x.jpg"; sourceTree = "<group>"; };
+		1DAA74F11C84492600485DB8 /* SeetaoShakeImage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoShakeImage@2x.png"; sourceTree = "<group>"; };
+		1DAA74F21C84492600485DB8 /* SeetaoShakeImageBg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SeetaoShakeImageBg.png; sourceTree = "<group>"; };
+		1DAA74F31C84492600485DB8 /* SeetaoShakeThemeCustomVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SeetaoShakeThemeCustomVC.xib; sourceTree = "<group>"; };
+		1DAA74F41C84492600485DB8 /* SeetaoShakeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SeetaoShakeViewController.xib; sourceTree = "<group>"; };
+		1DAA74F51C84492600485DB8 /* SeetaoShareIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoShareIcon@2x.png"; sourceTree = "<group>"; };
+		1DAA74F61C84492600485DB8 /* SeetaoShareIcon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoShareIcon@3x.png"; sourceTree = "<group>"; };
+		1DAA74F71C84492600485DB8 /* SeetaoTipCloseIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeetaoTipCloseIcon@2x.png"; sourceTree = "<group>"; };
+		1DAA74F81C84492600485DB8 /* SeetaoWebViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SeetaoWebViewController.xib; sourceTree = "<group>"; };
+		1DAA74F91C84492600485DB8 /* SeetaoWebViewJavascriptBridge.js.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SeetaoWebViewJavascriptBridge.js.txt; sourceTree = "<group>"; };
+		1DAA74FA1C84492600485DB8 /* shake.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shake.mp3; sourceTree = "<group>"; };
+		1DAA74FB1C84492600485DB8 /* SeetaoNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SeetaoNavigationController.h; sourceTree = "<group>"; };
+		1DAA74FC1C84492600485DB8 /* SeetaoSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SeetaoSDK.h; sourceTree = "<group>"; };
+		1DAA74FD1C84492600485DB8 /* SeetaoShareContent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SeetaoShareContent.h; sourceTree = "<group>"; };
+		1DAA74FE1C84492600485DB8 /* SeetaoUser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SeetaoUser.h; sourceTree = "<group>"; };
+		1DAA74FF1C84492600485DB8 /* SeetaoWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SeetaoWebViewController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +113,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DAA75001C84492600485DB8 /* libseetaoSDK.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -101,6 +157,7 @@
 		1DAA74AB1C84491500485DB8 /* SeetaoSDK */ = {
 			isa = PBXGroup;
 			children = (
+				1DAA74DF1C84492600485DB8 /* SeetaoSDK */,
 				1DAA74AF1C84491500485DB8 /* AppDelegate.h */,
 				1DAA74B01C84491500485DB8 /* AppDelegate.m */,
 				1DAA74B21C84491500485DB8 /* ViewController.h */,
@@ -138,6 +195,59 @@
 				1DAA74D31C84491500485DB8 /* Info.plist */,
 			);
 			path = SeetaoSDKUITests;
+			sourceTree = "<group>";
+		};
+		1DAA74DF1C84492600485DB8 /* SeetaoSDK */ = {
+			isa = PBXGroup;
+			children = (
+				1DAA74E01C84492600485DB8 /* Libs */,
+				1DAA74E21C84492600485DB8 /* Resources */,
+				1DAA74FB1C84492600485DB8 /* SeetaoNavigationController.h */,
+				1DAA74FC1C84492600485DB8 /* SeetaoSDK.h */,
+				1DAA74FD1C84492600485DB8 /* SeetaoShareContent.h */,
+				1DAA74FE1C84492600485DB8 /* SeetaoUser.h */,
+				1DAA74FF1C84492600485DB8 /* SeetaoWebViewController.h */,
+			);
+			path = SeetaoSDK;
+			sourceTree = "<group>";
+		};
+		1DAA74E01C84492600485DB8 /* Libs */ = {
+			isa = PBXGroup;
+			children = (
+				1DAA74E11C84492600485DB8 /* libseetaoSDK.a */,
+			);
+			path = Libs;
+			sourceTree = "<group>";
+		};
+		1DAA74E21C84492600485DB8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1DAA74E31C84492600485DB8 /* SeetaoBackIcon@2x.png */,
+				1DAA74E41C84492600485DB8 /* SeetaoBackIcon@3x.png */,
+				1DAA74E51C84492600485DB8 /* SeetaoHistoryImage@2x.png */,
+				1DAA74E61C84492600485DB8 /* SeetaoInteractIcon@2x.png */,
+				1DAA74E71C84492600485DB8 /* SeetaoInteractIconDot@2x.png */,
+				1DAA74E81C84492600485DB8 /* SeetaoInteractOffIcon@2x.png */,
+				1DAA74E91C84492600485DB8 /* SeetaoInteractOfflineTip.gif */,
+				1DAA74EA1C84492600485DB8 /* SeetaoInteractOnIcon@2x.png */,
+				1DAA74EB1C84492600485DB8 /* SeetaoMoreIcon@2x.png */,
+				1DAA74EC1C84492600485DB8 /* SeetaoNetErrorIcon@2x.png */,
+				1DAA74ED1C84492600485DB8 /* SeetaoNetErrorIcon@3x.png */,
+				1DAA74EE1C84492600485DB8 /* SeetaoRefreshIcon@2x.png */,
+				1DAA74EF1C84492600485DB8 /* SeetaoRefreshIcon@3x.png */,
+				1DAA74F01C84492600485DB8 /* SeetaoShakeBg@2x.jpg */,
+				1DAA74F11C84492600485DB8 /* SeetaoShakeImage@2x.png */,
+				1DAA74F21C84492600485DB8 /* SeetaoShakeImageBg.png */,
+				1DAA74F31C84492600485DB8 /* SeetaoShakeThemeCustomVC.xib */,
+				1DAA74F41C84492600485DB8 /* SeetaoShakeViewController.xib */,
+				1DAA74F51C84492600485DB8 /* SeetaoShareIcon@2x.png */,
+				1DAA74F61C84492600485DB8 /* SeetaoShareIcon@3x.png */,
+				1DAA74F71C84492600485DB8 /* SeetaoTipCloseIcon@2x.png */,
+				1DAA74F81C84492600485DB8 /* SeetaoWebViewController.xib */,
+				1DAA74F91C84492600485DB8 /* SeetaoWebViewJavascriptBridge.js.txt */,
+				1DAA74FA1C84492600485DB8 /* shake.mp3 */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +353,33 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DAA75161C84492600485DB8 /* SeetaoWebViewController.xib in Resources */,
+				1DAA75171C84492600485DB8 /* SeetaoWebViewJavascriptBridge.js.txt in Resources */,
+				1DAA75031C84492600485DB8 /* SeetaoHistoryImage@2x.png in Resources */,
+				1DAA75041C84492600485DB8 /* SeetaoInteractIcon@2x.png in Resources */,
+				1DAA75101C84492600485DB8 /* SeetaoShakeImageBg.png in Resources */,
+				1DAA75151C84492600485DB8 /* SeetaoTipCloseIcon@2x.png in Resources */,
+				1DAA75081C84492600485DB8 /* SeetaoInteractOnIcon@2x.png in Resources */,
+				1DAA75131C84492600485DB8 /* SeetaoShareIcon@2x.png in Resources */,
 				1DAA74BC1C84491500485DB8 /* LaunchScreen.storyboard in Resources */,
+				1DAA75121C84492600485DB8 /* SeetaoShakeViewController.xib in Resources */,
+				1DAA75111C84492600485DB8 /* SeetaoShakeThemeCustomVC.xib in Resources */,
+				1DAA750E1C84492600485DB8 /* SeetaoShakeBg@2x.jpg in Resources */,
+				1DAA750B1C84492600485DB8 /* SeetaoNetErrorIcon@3x.png in Resources */,
+				1DAA75071C84492600485DB8 /* SeetaoInteractOfflineTip.gif in Resources */,
+				1DAA75011C84492600485DB8 /* SeetaoBackIcon@2x.png in Resources */,
+				1DAA75051C84492600485DB8 /* SeetaoInteractIconDot@2x.png in Resources */,
+				1DAA750A1C84492600485DB8 /* SeetaoNetErrorIcon@2x.png in Resources */,
 				1DAA74B91C84491500485DB8 /* Assets.xcassets in Resources */,
+				1DAA75061C84492600485DB8 /* SeetaoInteractOffIcon@2x.png in Resources */,
+				1DAA75181C84492600485DB8 /* shake.mp3 in Resources */,
+				1DAA750F1C84492600485DB8 /* SeetaoShakeImage@2x.png in Resources */,
+				1DAA75141C84492600485DB8 /* SeetaoShareIcon@3x.png in Resources */,
+				1DAA75021C84492600485DB8 /* SeetaoBackIcon@3x.png in Resources */,
+				1DAA750C1C84492600485DB8 /* SeetaoRefreshIcon@2x.png in Resources */,
 				1DAA74B71C84491500485DB8 /* Main.storyboard in Resources */,
+				1DAA75091C84492600485DB8 /* SeetaoMoreIcon@2x.png in Resources */,
+				1DAA750D1C84492600485DB8 /* SeetaoRefreshIcon@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,6 +549,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SeetaoSDK/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/SeetaoSDK/SeetaoSDK/Libs",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = zhanglichi.SeetaoSDK;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -426,6 +564,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SeetaoSDK/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/SeetaoSDK/SeetaoSDK/Libs",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = zhanglichi.SeetaoSDK;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
